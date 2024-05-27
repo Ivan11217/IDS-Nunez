@@ -1,0 +1,684 @@
+2024-05-23 18:05:43,242 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-23 18:10:11,766 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-23 18:17:46,093 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.espol.edu:labcodeinspection:0.0.1-SNAPSHOT @ C:\Users\IVAN\Desktop\Taller2\CodeInspection\pom.xml.
+2024-05-23 18:17:46,722 [Worker-26: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 18:17:46,723 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-23 18:17:46,729 [Worker-26: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 18:17:46,730 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-23 18:19:49,389 [Worker-4: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 18:19:49,390 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-23 18:19:49,394 [Worker-4: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 18:19:49,395 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-23 18:23:57,305 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-23 18:24:20,024 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 18:24:20,026 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-23 18:24:20,030 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 18:24:20,031 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-23 18:35:36,606 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-23 18:46:45,416 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 18:46:45,419 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-23 18:46:45,424 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 18:46:45,425 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-23 18:55:22,305 [Worker-28: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 18:55:22,305 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-23 18:55:22,309 [Worker-28: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 18:55:22,310 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-23 18:55:24,347 [ModalContext] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 18:55:24,348 [ModalContext] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-23 18:55:24,351 [ModalContext] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 18:55:24,352 [ModalContext] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-23 18:59:44,540 [Worker-33: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 18:59:44,543 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-23 18:59:44,550 [Worker-33: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 18:59:44,551 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-23 18:59:47,564 [ModalContext] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 18:59:47,564 [ModalContext] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-23 18:59:47,566 [ModalContext] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 18:59:47,567 [ModalContext] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-23 19:00:19,077 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:00:19,078 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-23 19:00:19,082 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:00:19,083 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-23 19:00:20,880 [ModalContext] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:00:20,881 [ModalContext] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-23 19:00:20,883 [ModalContext] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:00:20,884 [ModalContext] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-23 19:00:28,021 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:00:28,021 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-23 19:00:28,024 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:00:28,025 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-23 19:00:29,845 [ModalContext] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:00:29,846 [ModalContext] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-23 19:00:29,849 [ModalContext] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:00:29,850 [ModalContext] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-23 19:16:58,704 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:16:58,707 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-23 19:16:58,710 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:16:58,711 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-23 19:18:19,545 [Worker-36: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:18:19,546 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-23 19:18:19,549 [Worker-36: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:18:19,550 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-23 19:18:21,877 [ModalContext] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:18:21,878 [ModalContext] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-23 19:18:21,880 [ModalContext] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:18:21,880 [ModalContext] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-23 19:18:28,727 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:18:28,728 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-23 19:18:28,730 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:18:28,730 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-23 19:18:30,267 [ModalContext] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:18:30,267 [ModalContext] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-23 19:18:30,269 [ModalContext] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:18:30,270 [ModalContext] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-23 19:18:48,031 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:18:48,032 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-23 19:18:48,035 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:18:48,036 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-23 19:18:49,534 [ModalContext] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:18:49,535 [ModalContext] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-23 19:18:49,537 [ModalContext] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:18:49,538 [ModalContext] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-23 19:18:51,696 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:18:51,698 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-23 19:18:51,703 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:18:51,706 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-23 19:18:52,574 [ModalContext] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:18:52,575 [ModalContext] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-23 19:18:52,578 [ModalContext] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:18:52,579 [ModalContext] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-23 19:23:01,619 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:23:01,622 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-23 19:23:01,627 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:23:01,630 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-23 19:31:36,906 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:31:36,908 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-23 19:31:36,910 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:31:36,911 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-23 19:39:27,168 [Worker-45: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:39:27,169 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-23 19:39:27,171 [Worker-45: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:39:27,172 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-23 19:48:26,220 [Worker-52: Building Workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.espol.edu:labcodeinspection:0.0.1-SNAPSHOT @ C:\Users\IVAN\Desktop\Taller2\CodeInspection\pom.xml.
+2024-05-23 19:48:26,347 [Worker-52: Building Workspace] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:48:26,348 [Worker-52: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-23 19:48:26,351 [Worker-52: Building Workspace] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:48:26,351 [Worker-52: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-23 19:51:24,403 [Worker-50: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.espol.edu:labcodeinspection:0.0.1-SNAPSHOT @ C:\Users\IVAN\Desktop\Taller2\CodeInspection\pom.xml.
+2024-05-23 19:51:24,511 [Worker-50: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:51:24,512 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-23 19:51:24,516 [Worker-50: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-23 19:51:24,517 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-26 20:47:00,618 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-26 21:13:58,172 [Worker-29: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 21:13:58,174 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-26 21:13:58,178 [Worker-29: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 21:13:58,178 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-26 21:14:11,094 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-26 21:17:23,678 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 21:17:23,680 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-26 21:17:23,684 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 21:17:23,685 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-26 21:24:45,541 [Worker-27: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:587)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:487)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:366)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:318)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.io.EOFException: no more data available - expected end tag </project> to close start tag <project> from line 1, parser stopped on END_TAG seen ...</reporting>\r\n... @47:1
+	at org.codehaus.plexus.util.xml.pull.MXParser.fillBuf(MXParser.java:3965)
+	at org.codehaus.plexus.util.xml.pull.MXParser.more(MXParser.java:3980)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1740)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1375)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1357)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2155)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+2024-05-26 21:25:02,320 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-26 21:25:02,732 [Worker-4: reload maven project] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: Some problems were encountered while processing the POMs:
+[FATAL] Non-readable POM C:\Users\IVAN\Desktop\Taller2\CodeInspection\pom.xml: no more data available - expected end tag </project> to close start tag <project> from line 1, parser stopped on END_TAG seen ...</reporting>\r\n... @47:1 @ 
+
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[FATAL] Non-readable POM C:\Users\IVAN\Desktop\Taller2\CodeInspection\pom.xml: no more data available - expected end tag </project> to close start tag <project> from line 1, parser stopped on END_TAG seen ...</reporting>\r\n... @47:1 @ 
+
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readMavenProjects(IMavenToolbox.java:140)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:939)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:935)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:219)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:105)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:239)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:709)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$4.run(MavenPomEditor.java:1029)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-05-26 21:25:02,950 [Worker-7: Updating Maven Dependencies] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:587)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:487)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:366)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$4(ProjectRegistryRefreshJob.java:154)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1053)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.io.EOFException: no more data available - expected end tag </project> to close start tag <project> from line 1, parser stopped on END_TAG seen ...</reporting>\r\n... @47:1
+	at org.codehaus.plexus.util.xml.pull.MXParser.fillBuf(MXParser.java:3965)
+	at org.codehaus.plexus.util.xml.pull.MXParser.more(MXParser.java:3980)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1740)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1375)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1357)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2155)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 14 common frames omitted
+2024-05-26 21:26:26,402 [Worker-18: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.espol.edu:labcodeinspection:0.0.1-SNAPSHOT @ C:\Users\IVAN\Desktop\Taller2\CodeInspection\pom.xml.
+2024-05-26 21:26:26,566 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 21:26:26,567 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-26 21:26:26,571 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 21:26:26,571 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-26 21:27:53,522 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.6; built: 2024-01-30T02:43:24.387Z; git: 78ab6e6ba163f89cdd97f2ae0283fbb5e371cfaf; jvm 17.0.8.1+1
+2024-05-26 21:27:53,573 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@2d95986{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@c8e08eb{STARTED}}
+2024-05-26 21:27:53,574 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-05-26 21:27:53,599 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@3a3f9331{HTTP/1.1, (http/1.1)}{127.0.0.1:53288}
+2024-05-26 21:27:53,602 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@6707c1b1{STARTING}[12.0.6,sto=0] @184045ms
+2024-05-26 21:36:55,236 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@6707c1b1{STOPPING}[12.0.6,sto=0]
+2024-05-26 21:36:55,239 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@3a3f9331{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2024-05-26 21:37:10,463 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-26 21:41:14,799 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-05-26 21:42:17,319 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [297])
+2024-05-26 21:42:17,321 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2024-05-26 21:42:17,322 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\aopalliance-1.0.jar
+2024-05-26 21:42:17,322 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\guice-5.1.0.jar
+2024-05-26 21:42:17,322 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpclient-4.5.14.jar
+2024-05-26 21:42:17,322 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpcore-4.4.16.jar
+2024-05-26 21:42:17,322 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jansi-2.4.0.jar
+2024-05-26 21:42:17,323 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jcl-over-slf4j-1.7.36.jar
+2024-05-26 21:42:17,323 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-artifact-3.9.6.jar
+2024-05-26 21:42:17,323 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-builder-support-3.9.6.jar
+2024-05-26 21:42:17,323 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-compat-3.9.6.jar
+2024-05-26 21:42:17,323 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-core-3.9.6.jar
+2024-05-26 21:42:17,323 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-embedder-3.9.6.jar
+2024-05-26 21:42:17,324 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-3.9.6.jar
+2024-05-26 21:42:17,324 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-builder-3.9.6.jar
+2024-05-26 21:42:17,324 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-plugin-api-3.9.6.jar
+2024-05-26 21:42:17,324 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-repository-metadata-3.9.6.jar
+2024-05-26 21:42:17,324 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-api-1.9.18.jar
+2024-05-26 21:42:17,324 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-connector-basic-1.9.18.jar
+2024-05-26 21:42:17,325 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-impl-1.9.18.jar
+2024-05-26 21:42:17,325 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-named-locks-1.9.18.jar
+2024-05-26 21:42:17,325 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-provider-3.9.6.jar
+2024-05-26 21:42:17,325 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-spi-1.9.18.jar
+2024-05-26 21:42:17,325 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-file-1.9.18.jar
+2024-05-26 21:42:17,326 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-http-1.9.18.jar
+2024-05-26 21:42:17,326 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-wagon-1.9.18.jar
+2024-05-26 21:42:17,326 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-util-1.9.18.jar
+2024-05-26 21:42:17,326 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-3.9.6.jar
+2024-05-26 21:42:17,326 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-builder-3.9.6.jar
+2024-05-26 21:42:17,327 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-shared-utils-3.3.4.jar
+2024-05-26 21:42:17,327 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-05-26 21:42:17,327 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-05-26 21:42:17,327 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-build-api-0.0.7.jar
+2024-05-26 21:42:17,327 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-cipher-2.0.jar
+2024-05-26 21:42:17,327 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-classworlds-2.7.0.jar
+2024-05-26 21:42:17,328 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-component-annotations-2.1.0.jar
+2024-05-26 21:42:17,328 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-interpolation-1.26.jar
+2024-05-26 21:42:17,329 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-sec-dispatcher-2.0.jar
+2024-05-26 21:42:17,329 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-utils-3.5.1.jar
+2024-05-26 21:42:17,329 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-file-3.5.3.jar
+2024-05-26 21:42:17,329 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-3.5.3.jar
+2024-05-26 21:42:17,330 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-shared-3.5.3.jar
+2024-05-26 21:42:17,330 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-provider-api-3.5.3.jar
+2024-05-26 21:42:17,331 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [10])
+2024-05-26 21:42:17,331 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\com.google.guava_33.0.0.jre.jar
+2024-05-26 21:42:17,331 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.13 [519])
+2024-05-26 21:42:17,332 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\slf4j.api_2.0.13.jar
+2024-05-26 21:42:17,332 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [521])
+2024-05-26 21:42:17,332 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2024-05-26 21:42:17,332 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [520])
+2024-05-26 21:42:17,333 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2024-05-26 21:42:17,333 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [46])
+2024-05-26 21:42:17,333 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.apache.commons.cli_1.6.0.jar
+2024-05-26 21:42:17,333 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [47])
+2024-05-26 21:42:17,333 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-05-26 21:42:17,333 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [53])
+2024-05-26 21:42:17,334 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.apache.commons.lang3_3.14.0.jar
+2024-05-26 21:42:17,334 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [11])
+2024-05-26 21:42:17,334 [Worker-22: Launching CodeInspection] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-05-26 21:42:17,337 [Worker-22: Launching CodeInspection] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\IVAN\Desktop\Taller2\CodeInspection":
+2024-05-26 21:42:17,341 [Worker-22: Launching CodeInspection] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always sitio
+2024-05-26 21:47:45,197 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-05-26 21:48:22,903 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [297])
+2024-05-26 21:48:22,904 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2024-05-26 21:48:22,905 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\aopalliance-1.0.jar
+2024-05-26 21:48:22,905 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\guice-5.1.0.jar
+2024-05-26 21:48:22,905 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpclient-4.5.14.jar
+2024-05-26 21:48:22,905 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpcore-4.4.16.jar
+2024-05-26 21:48:22,905 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jansi-2.4.0.jar
+2024-05-26 21:48:22,906 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jcl-over-slf4j-1.7.36.jar
+2024-05-26 21:48:22,906 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-artifact-3.9.6.jar
+2024-05-26 21:48:22,906 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-builder-support-3.9.6.jar
+2024-05-26 21:48:22,906 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-compat-3.9.6.jar
+2024-05-26 21:48:22,906 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-core-3.9.6.jar
+2024-05-26 21:48:22,907 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-embedder-3.9.6.jar
+2024-05-26 21:48:22,907 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-3.9.6.jar
+2024-05-26 21:48:22,907 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-builder-3.9.6.jar
+2024-05-26 21:48:22,907 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-plugin-api-3.9.6.jar
+2024-05-26 21:48:22,907 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-repository-metadata-3.9.6.jar
+2024-05-26 21:48:22,907 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-api-1.9.18.jar
+2024-05-26 21:48:22,908 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-connector-basic-1.9.18.jar
+2024-05-26 21:48:22,908 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-impl-1.9.18.jar
+2024-05-26 21:48:22,908 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-named-locks-1.9.18.jar
+2024-05-26 21:48:22,909 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-provider-3.9.6.jar
+2024-05-26 21:48:22,909 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-spi-1.9.18.jar
+2024-05-26 21:48:22,909 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-file-1.9.18.jar
+2024-05-26 21:48:22,909 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-http-1.9.18.jar
+2024-05-26 21:48:22,910 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-wagon-1.9.18.jar
+2024-05-26 21:48:22,910 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-util-1.9.18.jar
+2024-05-26 21:48:22,910 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-3.9.6.jar
+2024-05-26 21:48:22,911 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-builder-3.9.6.jar
+2024-05-26 21:48:22,911 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-shared-utils-3.3.4.jar
+2024-05-26 21:48:22,911 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-05-26 21:48:22,911 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-05-26 21:48:22,912 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-build-api-0.0.7.jar
+2024-05-26 21:48:22,912 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-cipher-2.0.jar
+2024-05-26 21:48:22,912 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-classworlds-2.7.0.jar
+2024-05-26 21:48:22,912 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-component-annotations-2.1.0.jar
+2024-05-26 21:48:22,913 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-interpolation-1.26.jar
+2024-05-26 21:48:22,913 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-sec-dispatcher-2.0.jar
+2024-05-26 21:48:22,913 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-utils-3.5.1.jar
+2024-05-26 21:48:22,913 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-file-3.5.3.jar
+2024-05-26 21:48:22,913 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-3.5.3.jar
+2024-05-26 21:48:22,914 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-shared-3.5.3.jar
+2024-05-26 21:48:22,914 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-provider-api-3.5.3.jar
+2024-05-26 21:48:22,914 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [10])
+2024-05-26 21:48:22,915 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\com.google.guava_33.0.0.jre.jar
+2024-05-26 21:48:22,915 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.13 [519])
+2024-05-26 21:48:22,915 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\slf4j.api_2.0.13.jar
+2024-05-26 21:48:22,915 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [521])
+2024-05-26 21:48:22,915 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2024-05-26 21:48:22,915 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [520])
+2024-05-26 21:48:22,916 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2024-05-26 21:48:22,916 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [46])
+2024-05-26 21:48:22,916 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.apache.commons.cli_1.6.0.jar
+2024-05-26 21:48:22,916 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [47])
+2024-05-26 21:48:22,916 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-05-26 21:48:22,916 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [53])
+2024-05-26 21:48:22,917 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.apache.commons.lang3_3.14.0.jar
+2024-05-26 21:48:22,917 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [11])
+2024-05-26 21:48:22,917 [Worker-26: Launching CodeInspection (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-05-26 21:48:22,918 [Worker-26: Launching CodeInspection (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\IVAN\Desktop\Taller2\CodeInspection":
+2024-05-26 21:48:22,919 [Worker-26: Launching CodeInspection (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2024-05-26 21:48:23,112 [Worker-28: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-05-26 21:48:23,310 [Worker-28: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 21:48:23,310 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-26 21:48:23,314 [Worker-28: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 21:48:23,315 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-26 21:48:30,024 [Worker-29: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-05-26 21:48:30,029 [Worker-29: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 21:48:30,030 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-26 21:48:30,034 [Worker-29: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 21:48:30,035 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-26 21:56:18,032 [Worker-36: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-05-26 21:56:30,035 [Worker-37: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-05-26 21:56:30,049 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 21:56:30,049 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-26 21:56:30,051 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 21:56:30,052 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-26 21:57:31,747 [Worker-37: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-05-26 21:57:31,756 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 21:57:31,758 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-26 21:57:31,761 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 21:57:31,763 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-26 21:57:37,446 [Worker-35: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-05-26 22:04:50,711 [Worker-35: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-05-26 22:04:50,715 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:04:50,716 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-26 22:04:50,719 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:04:50,720 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-26 22:05:05,270 [Worker-39: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-05-26 22:05:05,274 [Worker-39: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:05:05,275 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-26 22:05:05,278 [Worker-39: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:05:05,279 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-26 22:06:48,654 [Worker-41: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-05-26 22:06:48,657 [Worker-41: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:06:48,658 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-26 22:06:48,660 [Worker-41: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:06:48,660 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-26 22:08:26,274 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-05-26 22:10:00,080 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [297])
+2024-05-26 22:10:00,081 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2024-05-26 22:10:00,082 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\aopalliance-1.0.jar
+2024-05-26 22:10:00,082 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\guice-5.1.0.jar
+2024-05-26 22:10:00,083 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpclient-4.5.14.jar
+2024-05-26 22:10:00,083 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpcore-4.4.16.jar
+2024-05-26 22:10:00,083 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jansi-2.4.0.jar
+2024-05-26 22:10:00,083 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jcl-over-slf4j-1.7.36.jar
+2024-05-26 22:10:00,083 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-artifact-3.9.6.jar
+2024-05-26 22:10:00,083 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-builder-support-3.9.6.jar
+2024-05-26 22:10:00,084 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-compat-3.9.6.jar
+2024-05-26 22:10:00,084 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-core-3.9.6.jar
+2024-05-26 22:10:00,084 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-embedder-3.9.6.jar
+2024-05-26 22:10:00,084 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-3.9.6.jar
+2024-05-26 22:10:00,085 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-builder-3.9.6.jar
+2024-05-26 22:10:00,085 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-plugin-api-3.9.6.jar
+2024-05-26 22:10:00,085 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-repository-metadata-3.9.6.jar
+2024-05-26 22:10:00,085 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-api-1.9.18.jar
+2024-05-26 22:10:00,085 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-connector-basic-1.9.18.jar
+2024-05-26 22:10:00,086 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-impl-1.9.18.jar
+2024-05-26 22:10:00,086 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-named-locks-1.9.18.jar
+2024-05-26 22:10:00,086 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-provider-3.9.6.jar
+2024-05-26 22:10:00,086 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-spi-1.9.18.jar
+2024-05-26 22:10:00,086 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-file-1.9.18.jar
+2024-05-26 22:10:00,086 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-http-1.9.18.jar
+2024-05-26 22:10:00,087 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-wagon-1.9.18.jar
+2024-05-26 22:10:00,087 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-util-1.9.18.jar
+2024-05-26 22:10:00,087 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-3.9.6.jar
+2024-05-26 22:10:00,087 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-builder-3.9.6.jar
+2024-05-26 22:10:00,087 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-shared-utils-3.3.4.jar
+2024-05-26 22:10:00,087 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-05-26 22:10:00,087 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-05-26 22:10:00,088 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-build-api-0.0.7.jar
+2024-05-26 22:10:00,088 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-cipher-2.0.jar
+2024-05-26 22:10:00,088 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-classworlds-2.7.0.jar
+2024-05-26 22:10:00,088 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-component-annotations-2.1.0.jar
+2024-05-26 22:10:00,088 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-interpolation-1.26.jar
+2024-05-26 22:10:00,088 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-sec-dispatcher-2.0.jar
+2024-05-26 22:10:00,088 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-utils-3.5.1.jar
+2024-05-26 22:10:00,089 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-file-3.5.3.jar
+2024-05-26 22:10:00,089 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-3.5.3.jar
+2024-05-26 22:10:00,089 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-shared-3.5.3.jar
+2024-05-26 22:10:00,089 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-provider-api-3.5.3.jar
+2024-05-26 22:10:00,089 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [10])
+2024-05-26 22:10:00,090 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\com.google.guava_33.0.0.jre.jar
+2024-05-26 22:10:00,090 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.13 [519])
+2024-05-26 22:10:00,090 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\slf4j.api_2.0.13.jar
+2024-05-26 22:10:00,090 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [521])
+2024-05-26 22:10:00,091 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2024-05-26 22:10:00,091 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [520])
+2024-05-26 22:10:00,091 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2024-05-26 22:10:00,091 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [46])
+2024-05-26 22:10:00,092 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.apache.commons.cli_1.6.0.jar
+2024-05-26 22:10:00,092 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [47])
+2024-05-26 22:10:00,092 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-05-26 22:10:00,092 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [53])
+2024-05-26 22:10:00,092 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.apache.commons.lang3_3.14.0.jar
+2024-05-26 22:10:00,092 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [11])
+2024-05-26 22:10:00,093 [Worker-38: Launching CodeInspection (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-05-26 22:10:00,094 [Worker-38: Launching CodeInspection (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\IVAN\Desktop\Taller2\CodeInspection":
+2024-05-26 22:10:00,094 [Worker-38: Launching CodeInspection (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always sitio
+2024-05-26 22:15:13,526 [Worker-44: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-05-26 22:15:13,533 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:15:13,534 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\main\resources
+2024-05-26 22:15:13,540 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:15:13,541 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-26 22:16:04,848 [Worker-44: Building Workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-05-26 22:16:04,852 [Worker-44: Building Workspace] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:16:04,872 [Worker-44: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-05-26 22:16:04,885 [Worker-44: Building Workspace] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:16:04,886 [Worker-44: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-26 22:16:38,712 [Worker-48: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-05-26 22:16:38,715 [Worker-48: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:16:38,717 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-26 22:16:38,720 [Worker-48: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:16:38,721 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-26 22:16:56,119 [Worker-45: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-05-26 22:16:56,122 [Worker-45: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:16:56,123 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-26 22:16:56,127 [Worker-45: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:16:56,128 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-26 22:17:57,408 [Worker-48: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-05-26 22:17:57,419 [Worker-48: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:17:57,426 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-26 22:17:57,437 [Worker-48: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:17:57,438 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-26 22:19:18,349 [Worker-51: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-05-26 22:19:18,354 [Worker-51: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:19:18,362 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-26 22:19:18,365 [Worker-51: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:19:18,365 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-26 22:19:34,284 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-26 22:32:14,905 [Worker-31: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:32:14,912 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-05-26 22:32:14,921 [Worker-31: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:32:14,921 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-26 22:33:42,025 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:33:42,028 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-26 22:33:42,030 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:33:42,031 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-26 22:34:19,352 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-05-26 22:35:14,535 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [297])
+2024-05-26 22:35:14,537 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2024-05-26 22:35:14,537 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\aopalliance-1.0.jar
+2024-05-26 22:35:14,537 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\guice-5.1.0.jar
+2024-05-26 22:35:14,537 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpclient-4.5.14.jar
+2024-05-26 22:35:14,538 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpcore-4.4.16.jar
+2024-05-26 22:35:14,538 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jansi-2.4.0.jar
+2024-05-26 22:35:14,538 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jcl-over-slf4j-1.7.36.jar
+2024-05-26 22:35:14,538 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-artifact-3.9.6.jar
+2024-05-26 22:35:14,538 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-builder-support-3.9.6.jar
+2024-05-26 22:35:14,538 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-compat-3.9.6.jar
+2024-05-26 22:35:14,539 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-core-3.9.6.jar
+2024-05-26 22:35:14,539 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-embedder-3.9.6.jar
+2024-05-26 22:35:14,539 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-3.9.6.jar
+2024-05-26 22:35:14,539 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-builder-3.9.6.jar
+2024-05-26 22:35:14,539 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-plugin-api-3.9.6.jar
+2024-05-26 22:35:14,539 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-repository-metadata-3.9.6.jar
+2024-05-26 22:35:14,540 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-api-1.9.18.jar
+2024-05-26 22:35:14,540 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-connector-basic-1.9.18.jar
+2024-05-26 22:35:14,540 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-impl-1.9.18.jar
+2024-05-26 22:35:14,540 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-named-locks-1.9.18.jar
+2024-05-26 22:35:14,540 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-provider-3.9.6.jar
+2024-05-26 22:35:14,540 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-spi-1.9.18.jar
+2024-05-26 22:35:14,541 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-file-1.9.18.jar
+2024-05-26 22:35:14,541 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-http-1.9.18.jar
+2024-05-26 22:35:14,541 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-wagon-1.9.18.jar
+2024-05-26 22:35:14,541 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-util-1.9.18.jar
+2024-05-26 22:35:14,541 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-3.9.6.jar
+2024-05-26 22:35:14,541 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-builder-3.9.6.jar
+2024-05-26 22:35:14,542 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-shared-utils-3.3.4.jar
+2024-05-26 22:35:14,542 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-05-26 22:35:14,542 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-05-26 22:35:14,542 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-build-api-0.0.7.jar
+2024-05-26 22:35:14,542 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-cipher-2.0.jar
+2024-05-26 22:35:14,542 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-classworlds-2.7.0.jar
+2024-05-26 22:35:14,543 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-component-annotations-2.1.0.jar
+2024-05-26 22:35:14,543 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-interpolation-1.26.jar
+2024-05-26 22:35:14,543 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-sec-dispatcher-2.0.jar
+2024-05-26 22:35:14,543 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-utils-3.5.1.jar
+2024-05-26 22:35:14,543 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-file-3.5.3.jar
+2024-05-26 22:35:14,543 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-3.5.3.jar
+2024-05-26 22:35:14,544 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-shared-3.5.3.jar
+2024-05-26 22:35:14,544 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-provider-api-3.5.3.jar
+2024-05-26 22:35:14,545 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [10])
+2024-05-26 22:35:14,546 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\com.google.guava_33.0.0.jre.jar
+2024-05-26 22:35:14,546 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.13 [519])
+2024-05-26 22:35:14,547 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\slf4j.api_2.0.13.jar
+2024-05-26 22:35:14,547 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [521])
+2024-05-26 22:35:14,547 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2024-05-26 22:35:14,547 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [520])
+2024-05-26 22:35:14,547 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2024-05-26 22:35:14,547 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [46])
+2024-05-26 22:35:14,548 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.apache.commons.cli_1.6.0.jar
+2024-05-26 22:35:14,548 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [47])
+2024-05-26 22:35:14,548 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-05-26 22:35:14,548 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [53])
+2024-05-26 22:35:14,548 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.apache.commons.lang3_3.14.0.jar
+2024-05-26 22:35:14,548 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [11])
+2024-05-26 22:35:14,549 [Worker-30: Launching CodeInspection (3)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-05-26 22:35:14,551 [Worker-30: Launching CodeInspection (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\IVAN\Desktop\Taller2\CodeInspection":
+2024-05-26 22:35:14,553 [Worker-30: Launching CodeInspection (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always site
+2024-05-26 22:39:26,441 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-05-26 22:40:32,898 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [297])
+2024-05-26 22:40:32,899 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2024-05-26 22:40:32,899 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\aopalliance-1.0.jar
+2024-05-26 22:40:32,899 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\guice-5.1.0.jar
+2024-05-26 22:40:32,900 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpclient-4.5.14.jar
+2024-05-26 22:40:32,900 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpcore-4.4.16.jar
+2024-05-26 22:40:32,900 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jansi-2.4.0.jar
+2024-05-26 22:40:32,901 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jcl-over-slf4j-1.7.36.jar
+2024-05-26 22:40:32,901 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-artifact-3.9.6.jar
+2024-05-26 22:40:32,902 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-builder-support-3.9.6.jar
+2024-05-26 22:40:32,902 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-compat-3.9.6.jar
+2024-05-26 22:40:32,902 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-core-3.9.6.jar
+2024-05-26 22:40:32,902 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-embedder-3.9.6.jar
+2024-05-26 22:40:32,903 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-3.9.6.jar
+2024-05-26 22:40:32,903 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-builder-3.9.6.jar
+2024-05-26 22:40:32,903 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-plugin-api-3.9.6.jar
+2024-05-26 22:40:32,904 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-repository-metadata-3.9.6.jar
+2024-05-26 22:40:32,904 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-api-1.9.18.jar
+2024-05-26 22:40:32,904 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-connector-basic-1.9.18.jar
+2024-05-26 22:40:32,905 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-impl-1.9.18.jar
+2024-05-26 22:40:32,905 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-named-locks-1.9.18.jar
+2024-05-26 22:40:32,905 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-provider-3.9.6.jar
+2024-05-26 22:40:32,905 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-spi-1.9.18.jar
+2024-05-26 22:40:32,906 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-file-1.9.18.jar
+2024-05-26 22:40:32,906 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-http-1.9.18.jar
+2024-05-26 22:40:32,906 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-wagon-1.9.18.jar
+2024-05-26 22:40:32,907 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-util-1.9.18.jar
+2024-05-26 22:40:32,907 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-3.9.6.jar
+2024-05-26 22:40:32,907 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-builder-3.9.6.jar
+2024-05-26 22:40:32,907 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-shared-utils-3.3.4.jar
+2024-05-26 22:40:32,908 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-05-26 22:40:32,908 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-05-26 22:40:32,908 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-build-api-0.0.7.jar
+2024-05-26 22:40:32,908 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-cipher-2.0.jar
+2024-05-26 22:40:32,908 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-classworlds-2.7.0.jar
+2024-05-26 22:40:32,909 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-component-annotations-2.1.0.jar
+2024-05-26 22:40:32,909 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-interpolation-1.26.jar
+2024-05-26 22:40:32,909 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-sec-dispatcher-2.0.jar
+2024-05-26 22:40:32,909 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-utils-3.5.1.jar
+2024-05-26 22:40:32,909 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-file-3.5.3.jar
+2024-05-26 22:40:32,909 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-3.5.3.jar
+2024-05-26 22:40:32,910 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-shared-3.5.3.jar
+2024-05-26 22:40:32,910 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-provider-api-3.5.3.jar
+2024-05-26 22:40:32,910 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [10])
+2024-05-26 22:40:32,911 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\com.google.guava_33.0.0.jre.jar
+2024-05-26 22:40:32,911 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.13 [519])
+2024-05-26 22:40:32,911 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\slf4j.api_2.0.13.jar
+2024-05-26 22:40:32,911 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [521])
+2024-05-26 22:40:32,912 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2024-05-26 22:40:32,912 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [520])
+2024-05-26 22:40:32,912 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2024-05-26 22:40:32,912 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [46])
+2024-05-26 22:40:32,912 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.apache.commons.cli_1.6.0.jar
+2024-05-26 22:40:32,912 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [47])
+2024-05-26 22:40:32,913 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-05-26 22:40:32,913 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [53])
+2024-05-26 22:40:32,913 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.apache.commons.lang3_3.14.0.jar
+2024-05-26 22:40:32,913 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [11])
+2024-05-26 22:40:32,914 [Worker-34: Launching CodeInspection (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-05-26 22:40:32,915 [Worker-34: Launching CodeInspection (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\IVAN\Desktop\Taller2\CodeInspection":
+2024-05-26 22:40:32,917 [Worker-34: Launching CodeInspection (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always -s C:\Users\IVAN\Desktop\Taller2\CodeInspection\target site
+2024-05-26 22:50:19,781 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:50:19,783 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-26 22:50:19,786 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:50:19,787 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-26 22:53:21,930 [Worker-39: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:53:21,933 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-26 22:53:21,936 [Worker-39: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:53:21,937 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-26 22:58:40,936 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:58:40,938 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-26 22:58:40,941 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-26 22:58:40,942 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\IVAN\Desktop\Taller2\CodeInspection\src\test\resources
+2024-05-26 23:00:44,574 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-05-26 23:01:12,909 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [297])
+2024-05-26 23:01:12,909 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2024-05-26 23:01:12,909 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\aopalliance-1.0.jar
+2024-05-26 23:01:12,910 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\guice-5.1.0.jar
+2024-05-26 23:01:12,910 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpclient-4.5.14.jar
+2024-05-26 23:01:12,911 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpcore-4.4.16.jar
+2024-05-26 23:01:12,911 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jansi-2.4.0.jar
+2024-05-26 23:01:12,911 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jcl-over-slf4j-1.7.36.jar
+2024-05-26 23:01:12,912 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-artifact-3.9.6.jar
+2024-05-26 23:01:12,912 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-builder-support-3.9.6.jar
+2024-05-26 23:01:12,912 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-compat-3.9.6.jar
+2024-05-26 23:01:12,912 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-core-3.9.6.jar
+2024-05-26 23:01:12,912 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-embedder-3.9.6.jar
+2024-05-26 23:01:12,913 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-3.9.6.jar
+2024-05-26 23:01:12,913 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-builder-3.9.6.jar
+2024-05-26 23:01:12,913 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-plugin-api-3.9.6.jar
+2024-05-26 23:01:12,913 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-repository-metadata-3.9.6.jar
+2024-05-26 23:01:12,914 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-api-1.9.18.jar
+2024-05-26 23:01:12,914 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-connector-basic-1.9.18.jar
+2024-05-26 23:01:12,914 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-impl-1.9.18.jar
+2024-05-26 23:01:12,914 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-named-locks-1.9.18.jar
+2024-05-26 23:01:12,915 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-provider-3.9.6.jar
+2024-05-26 23:01:12,915 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-spi-1.9.18.jar
+2024-05-26 23:01:12,915 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-file-1.9.18.jar
+2024-05-26 23:01:12,915 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-http-1.9.18.jar
+2024-05-26 23:01:12,915 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-wagon-1.9.18.jar
+2024-05-26 23:01:12,916 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-util-1.9.18.jar
+2024-05-26 23:01:12,916 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-3.9.6.jar
+2024-05-26 23:01:12,916 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-builder-3.9.6.jar
+2024-05-26 23:01:12,916 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-shared-utils-3.3.4.jar
+2024-05-26 23:01:12,917 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-05-26 23:01:12,917 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-05-26 23:01:12,917 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-build-api-0.0.7.jar
+2024-05-26 23:01:12,917 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-cipher-2.0.jar
+2024-05-26 23:01:12,917 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-classworlds-2.7.0.jar
+2024-05-26 23:01:12,917 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-component-annotations-2.1.0.jar
+2024-05-26 23:01:12,918 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-interpolation-1.26.jar
+2024-05-26 23:01:12,918 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-sec-dispatcher-2.0.jar
+2024-05-26 23:01:12,918 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-utils-3.5.1.jar
+2024-05-26 23:01:12,918 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-file-3.5.3.jar
+2024-05-26 23:01:12,918 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-3.5.3.jar
+2024-05-26 23:01:12,919 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-shared-3.5.3.jar
+2024-05-26 23:01:12,919 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-provider-api-3.5.3.jar
+2024-05-26 23:01:12,919 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [10])
+2024-05-26 23:01:12,920 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\com.google.guava_33.0.0.jre.jar
+2024-05-26 23:01:12,920 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.13 [519])
+2024-05-26 23:01:12,920 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\slf4j.api_2.0.13.jar
+2024-05-26 23:01:12,920 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [521])
+2024-05-26 23:01:12,921 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2024-05-26 23:01:12,921 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [520])
+2024-05-26 23:01:12,921 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2024-05-26 23:01:12,921 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [46])
+2024-05-26 23:01:12,921 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.apache.commons.cli_1.6.0.jar
+2024-05-26 23:01:12,921 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [47])
+2024-05-26 23:01:12,922 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-05-26 23:01:12,922 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [53])
+2024-05-26 23:01:12,922 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\org.apache.commons.lang3_3.14.0.jar
+2024-05-26 23:01:12,922 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [11])
+2024-05-26 23:01:12,923 [Worker-41: Launching CodeInspection (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\IVAN\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-05-26 23:01:12,924 [Worker-41: Launching CodeInspection (5)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\IVAN\Desktop\Taller2\CodeInspection":
+2024-05-26 23:01:12,924 [Worker-41: Launching CodeInspection (5)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always pmd:pmd
+2024-05-26 23:05:45,204 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
